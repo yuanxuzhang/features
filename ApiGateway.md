@@ -1,4 +1,6 @@
-## 功能[<sup>1</sup>](#refer)     
+## 定义[<sup>1</sup>](#refer)   
+负责将服务以API的形式暴露（给系统外部），以实现业务功能--nouth and south  
+## 功能[<sup>2</sup>](#refer)     
 1.请求权限认证  
 2.请求路由转发  
 3.请求流量控制  
@@ -29,4 +31,5 @@
 <div id="refer"></div>  
 
 ## Reference  
-1.[Do You Really Need Different Kinds of API Gateways?](https://www.nginx.com/blog/do-you-really-need-different-kinds-of-api-gateways-hint-no/)  
+1.[Service Mesh和API Gateway关系深度探讨](https://mp.weixin.qq.com/s/XPJS1C121l5Wkpp7SQJfnQ)  
+2.[Do You Really Need Different Kinds of API Gateways?](https://www.nginx.com/blog/do-you-really-need-different-kinds-of-api-gateways-hint-no/)  
