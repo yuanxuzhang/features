@@ -1,5 +1,6 @@
-## 定义[<sup>1</sup>](#refer)   
-负责将服务以API的形式暴露（给系统外部），以实现业务功能  north-south  
+## 定义   
+负责将服务以API的形式暴露（给系统外部），以实现业务功能  north-south[<sup>1</sup>](#refer)  
+ps微网关（microgateway）处理内部微服务间的调用 east-west[<sup>2</sup>](#refer)  
 ## 功能[<sup>2</sup>](#refer)     
 1.请求权限认证  
 2.请求路由转发  
