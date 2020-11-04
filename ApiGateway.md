@@ -1,4 +1,4 @@
-## 功能[<sup>1</sup>](#refer1)     
+## 功能[<sup>1</sup>](#refer)     
 1.请求权限认证  
 2.请求路由转发  
 3.请求流量控制  
@@ -8,6 +8,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="refer"></div>  
 ## Reference  
-<div id="refer1"></div>  
 1.[Do You Really Need Different Kinds of API Gateways?](https://www.nginx.com/blog/do-you-really-need-different-kinds-of-api-gateways-hint-no/)  
