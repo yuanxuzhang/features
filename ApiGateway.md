@@ -51,4 +51,4 @@ ps：微网关（microgateway）处理内部微服务间的调用 east-west[<sup
 ## Reference  
 1.[Service Mesh和API Gateway关系深度探讨](https://mp.weixin.qq.com/s/XPJS1C121l5Wkpp7SQJfnQ)  
 2.[Do You Really Need Different Kinds of API Gateways?](https://www.nginx.com/blog/do-you-really-need-different-kinds-of-api-gateways-hint-no/)  
-3.[恒丰银行分布式核心系统 -API 网关技术原型落地实践](#/resource/gateway/恒丰银行分布式核心系统_API网关技术原型落地实践.pdf)  
+3.[恒丰银行分布式核心系统 -API 网关技术原型落地实践](./resource/gateway/恒丰银行分布式核心系统_API网关技术原型落地实践.pdf)  
