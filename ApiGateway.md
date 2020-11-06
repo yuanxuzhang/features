@@ -67,3 +67,4 @@ APIGateway解决了外部调用端直接调用服务API的问题，无需了解�
 2.[Do You Really Need Different Kinds of API Gateways?](https://www.nginx.com/blog/do-you-really-need-different-kinds-of-api-gateways-hint-no/)  
 3.[恒丰银行分布式核心系统 -API 网关技术原型落地实践](./resource/gateway/恒丰银行分布式核心系统_API网关技术原型落地实践.pdf)  
 4.[apigateway-pattern](https://microservices.io/patterns/apigateway.html)   
+5.[Zuul 2: Netflix的异步、无阻塞系统之旅](https://cloud.tencent.com/developer/article/1583878)   
