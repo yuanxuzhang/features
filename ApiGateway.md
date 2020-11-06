@@ -1,6 +1,7 @@
 ## 定义   
 负责将服务以API的形式暴露（给系统外部），以实现业务功能  north-south[<sup>1</sup>](#refer)  
 ps：微网关（microgateway）处理内部微服务间的调用 east-west[<sup>2</sup>](#refer)  
+APIGateway解决了外部调用端直接调用服务API的问题，无需了解微服务内部架构，解耦了第三方程序和本为服务耦合度...[<sup>4</sup>](#refer)  
 服务API  公共API（API Gateway）    
 ## 功能[<sup>2</sup>](#refer)     
 1.请求权限认证[<sup>2</sup>](#refer)  
@@ -53,3 +54,4 @@ ps：微网关（microgateway）处理内部微服务间的调用 east-west[<sup
 1.[Service Mesh和API Gateway关系深度探讨](https://mp.weixin.qq.com/s/XPJS1C121l5Wkpp7SQJfnQ)  
 2.[Do You Really Need Different Kinds of API Gateways?](https://www.nginx.com/blog/do-you-really-need-different-kinds-of-api-gateways-hint-no/)  
 3.[恒丰银行分布式核心系统 -API 网关技术原型落地实践](./resource/gateway/恒丰银行分布式核心系统_API网关技术原型落地实践.pdf)  
+4.[apigateway-pattern](https://microservices.io/patterns/apigateway.html)   
