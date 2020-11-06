@@ -23,6 +23,7 @@ APIGateway解决了外部调用端直接调用服务API的问题，无需了解�
 
 10.监控 日志记录/指标收集分析/监控报警[<sup>3</sup>](#refer)      
 11.API生命周期管理[<sup>3</sup>](#refer)      
+12.请求聚合/协议转换[<sup>4</sup>](#refer)    
 ## 传统API网关问题  
 1.传统配置信息（路由，限速数据...）需要绑定到二进制文件或持久化到数据库，存在时延，阻塞的存在。[<sup>2</sup>](#refer)    
 2.数据层面（data plane）和API应用控制器（control plane）紧耦合，造成API控制逻辑出现异常会影响到路由处理功能。[<sup>2</sup>](#refer)    
